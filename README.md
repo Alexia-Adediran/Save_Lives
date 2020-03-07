@@ -1,5 +1,5 @@
 # SaveLives
-Welcome to a Life You can Save where you can name causes and see the associated charities aimed to improve lives around the world!!
+Welcome to a Life You can Save where you can name causes and see the associated charities aimed to improve lives around the world through thelifeyoucansave.org!!
 
 ## Installation
 
