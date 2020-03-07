@@ -1,8 +1,5 @@
 # SaveLives
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/Save_Lives`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to a Life You can Save where you can name causes and see the associated charities aimed to improve lives around the world!!
 
 ## Installation
 
